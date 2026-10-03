@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Shell</string>
+    <string name="home_service_label">TV Shell — кнопка «Домой»</string>
+    <string name="home_service_description">Открывает TV Shell при нажатии кнопки «Домой» на пульте и после включения телевизора. Сервис не читает содержимое экрана и ничего не отправляет.</string>
+</resources>
